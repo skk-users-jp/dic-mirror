@@ -1,0 +1,6 @@
+* SKK辞書(非公式)ミラー
+  このリポジトリは[[http://openlab.ring.gr.jp/skk/wiki/wiki.cgi?page=SKK%BC%AD%BD%F1][SKK辞書 - SKK辞書Wiki]]のミラーです。このリポジトリの管理者は“SKK development Team”ではありません。
+** Copyright
+#+BEGIN_QUOTE
+Copyright (C) 2002-2010 SKK development Team
+#+END_QUOTE
